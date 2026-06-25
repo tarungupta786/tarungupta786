@@ -171,16 +171,10 @@ https://www.hackerrank.com/YOUR_USERNAME
 
 ---
 
-## 💭 Developer Quote
+##💭 Developer Quote
 
-> "Learn. Build. Improve. Repeat."
+>"Code with purpose. Learn with curiosity. Build with consistency."
 
----
+<p align="center"> ⭐ If you find my projects interesting, don't forget to star them! </p>
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
-
-<p align="center">
-🚀 Building Today. Learning Forever.
-</p>
+<p align="center"> 🚀 Building Today • Learning Forever • Growing Every Day </p>
